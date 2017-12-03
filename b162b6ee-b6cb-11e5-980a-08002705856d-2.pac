@@ -112,7 +112,7 @@ var domains = {
   "novelasia.com": 1, 
   "v70.us": 1, 
   "zfreet.com": 1, 
-  "tensorflow.org": 1,
+  "https://www.tensorflow.org/": 1,
   "fgmtv.org": 1, 
   "rssmeme.com": 1, 
   "futuremessage.org": 1, 
