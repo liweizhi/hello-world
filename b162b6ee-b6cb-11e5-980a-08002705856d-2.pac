@@ -1,6 +1,7 @@
 // please do not change this file!
 
 var domains = {
+  "tumblr.com": 1,
   "instagram.com": 1,
   "4shared.com": 1, 
   "gimpshop.com": 1, 
