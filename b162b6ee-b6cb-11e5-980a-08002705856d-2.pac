@@ -1,6 +1,7 @@
 // please do not change this file!
 
 var domains = {
+  "instagram.com": 1,
   "4shared.com": 1, 
   "gimpshop.com": 1, 
   "bitcointalk.org": 1, 
@@ -1512,7 +1513,6 @@ var domains = {
   "old-cat.net": 1, 
   "shadow.ma": 1, 
   "digg.com": 1, 
-  "instagram.com": 1, 
   "ht.ly": 1, 
   "sydneytoday.com": 1, 
   "olympicwatch.org": 1, 
