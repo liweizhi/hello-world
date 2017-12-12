@@ -3,6 +3,7 @@
 var domains = {
   "tumblr.com": 1,
   "instagram.com": 1,
+  "android.com": 1, 
   "4shared.com": 1, 
   "gimpshop.com": 1, 
   "bitcointalk.org": 1, 
@@ -734,7 +735,6 @@ var domains = {
   "holyspiritspeaks.org": 1, 
   "2008xianzhang.info": 1, 
   "archive.is": 1, 
-  "android.com": 1, 
   "tmi.me": 1, 
   "nobodycanstop.us": 1, 
   "japan-whores.com": 1, 
