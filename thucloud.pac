@@ -2603,7 +2603,7 @@ var domains = {
 };
 
 var direct = 'DIRECT;';
-var proxy = "PROXY 166.111.80.96:15676;";
+var proxy = "PROXY 166.111.80.96:15813;";
 
 var hasOwnProperty = Object.hasOwnProperty;
 
